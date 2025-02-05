@@ -4,3 +4,4 @@ alembic
 pydantic-settings
 uvicorn
 asyncpg
+python-multipart
