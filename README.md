@@ -23,12 +23,15 @@
 1. Клонируйте репозиторий:
   
    git clone https://github.com/вашлогин/вашрепозиторий.git
+   
    cd ваш_репозиторий
    
-2. Установите необходимые зависимости:
+3. Установите необходимые зависимости:
 
    python -m venv venv
+   
    .\venv\Scripts\activate
+   
    pip install -r requirements.txt
 
 ### Настройка базы данных
